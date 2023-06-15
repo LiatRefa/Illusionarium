@@ -4,15 +4,19 @@ using UnityEngine;
 
 public class Tile : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private bool inPlace;
+    public int TilePlaceInShelf;
+    public bool IsInPlace()
     {
-        
+        return inPlace;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void SetInPlace(bool place)
     {
-        
+        inPlace = place;
+        // AudioManager.Instance.PlayOneShotAttach(AudioManager.Sounds.PushBook, gameObject);
     }
+    
+    
+    // TODO: Add sound to drop
 }
