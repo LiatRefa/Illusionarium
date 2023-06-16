@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cf62459-a6fa-46a2-b5a4-d05289974635" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DeepSpaceSkyboxPack/DiverseSpace/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepSpaceSkyboxPack/DiverseSpace/Materials/diversespace-back.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepSpaceSkyboxPack/DiverseSpace/Materials/diversespace-back.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/Materials/3d-abstract-space-sky-with-stars-nebula 1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/Materials/3d-abstract-space-sky-with-stars-nebula 1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001.zip.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials/NewLayer 1.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials/NewLayer 1.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials/NewLayer.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials/NewLayer.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials/Sand_005_ambientOcclusion.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials/Sand_005_ambientOcclusion.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials/Sand_005_baseColor 1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials/Sand_005_baseColor 1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials/Sand_005_baseColor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Materials/Sand_005_baseColor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Sand_005_ambientOcclusion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Sand_005_ambientOcclusion.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Sand_005_baseColor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Sand_005_baseColor.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Sand_005_height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Sand_005_height.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Sand_005_normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Sand_005_normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Sand_005_roughness.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140239Z-001/Sand_005_roughness.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001.zip.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Material_1532.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Material_1532.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Sand_007_ambientOcclusion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Sand_007_ambientOcclusion.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Sand_007_basecolor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Sand_007_basecolor.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Sand_007_height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Sand_007_height.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Sand_007_normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Sand_007_normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Sand_007_roughness.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRoom/mats/drive-download-20230612T140656Z-001/Sand_007_roughness.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XRI/Settings/Resources/XRDeviceSimulatorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XRI/Settings/Resources/XRDeviceSimulatorSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Terrain.asset" beforeDir="false" afterPath="$PROJECT_DIR$/New Terrain.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Terrain.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/New Terrain.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenes/MainScene.scenetemplate" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/MainScene.scenetemplate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XR/Settings/Open XR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/XR/Settings/Open XR Package Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2RHpX1yY4TNtSd2JNWRcWr2Uvoo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Liat5\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Liat5\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Liat5\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf62459-a6fa-46a2-b5a4-d05289974635" name="Changes" comment="" />
+      <created>1686916899981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686916899981</updated>
+      <workItem from="1686916902013" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
