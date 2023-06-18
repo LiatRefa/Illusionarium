@@ -13,7 +13,7 @@ public class PuzzleMission: MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        missionComplete = false;
     }
     
     public void CheckpuzzleCompleted()
@@ -28,5 +28,11 @@ public class PuzzleMission: MonoBehaviour
             }
         }  
     }
+
+    public bool getMissionStatus()
+    {
+        return missionComplete;
+    }
+
 }
 

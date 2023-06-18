@@ -6,6 +6,12 @@ public class Tile : MonoBehaviour
 {
     private bool inPlace;
     public int TilePlaceInShelf;
+
+    public void Start()
+    {
+        inPlace = false;
+    }
+
     public bool IsInPlace()
     {
         return inPlace;
