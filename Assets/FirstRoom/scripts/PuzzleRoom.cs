@@ -6,14 +6,12 @@ using UnityEngine;
 public class PuzzleRoom : MonoBehaviour
 {
     [SerializeField]
-    PuzzleMission pr;
+    PuzzleMission puzzle;
     [SerializeField] GameObject door;
     [SerializeField] GameObject astroids;
-    [SerializeField] GameObject puzzlePic;
-    
-    //   private bool puzzleComplete = false;
-
     public Material spaceSky;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,12 +20,11 @@ public class PuzzleRoom : MonoBehaviour
 
     void Update() 
     {
-        pr.CheckpuzzleCompleted();
-        if (pr.getMissionStatus())
+        puzzle.CheckpuzzleCompleted();
+        if (puzzle.getMissionStatus())
         {
             door.SetActive(true);
             astroids.SetActive(true);
-            //puzzlePic.SetActive(true);
             RenderSettings.skybox = spaceSky;
 
 
