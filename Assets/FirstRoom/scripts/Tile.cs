@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class Tile : MonoBehaviour
 {
+    [SerializeField]
+    SinglePuzzleSocket currPuzzleSocket;
     private bool inPlace;
     public int TilePlaceInShelf;
+    
 
     public void Start()
     {
@@ -14,7 +17,11 @@ public class Tile : MonoBehaviour
 
     public bool IsInPlace()
     {
-        return inPlace;
+        // return inPlace;
+        // if (inPlace){
+        return TilePlaceInShelf == currPuzzleSocket.socketPlaceInPicture; 
+        // }
+        // return false;
     }
 
     public void SetInPlace(bool place)
@@ -23,6 +30,6 @@ public class Tile : MonoBehaviour
         // AudioManager.Instance.PlayOneShotAttach(AudioManager.Sounds.PushBook, gameObject);
     }
     
-    
     // TODO: Add sound to drop
+    
 }

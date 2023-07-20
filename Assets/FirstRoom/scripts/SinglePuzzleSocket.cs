@@ -12,11 +12,11 @@ public class SinglePuzzleSocket : MonoBehaviour
     {
         Debug.Log("Puzzle in");
         Tile tile = args.interactableObject.transform.gameObject.GetComponent<Tile>();
-        if (IsTileInPlace(tile))
-        {
+        // if (IsTileInPlace(tile))
+        // {
             // sound
-            tile.SetInPlace(true);
-        }
+        tile.SetInPlace(true);
+        // }
     }
 
     public void OnTileTake(SelectExitEventArgs args)

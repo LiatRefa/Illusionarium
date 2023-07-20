@@ -27,7 +27,6 @@ public class PuzzleRoom : MonoBehaviour
             astroids.SetActive(true);
             RenderSettings.skybox = spaceSky;
 
-
         }
     }
 
