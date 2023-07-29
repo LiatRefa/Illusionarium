@@ -18,10 +18,10 @@ public class Tile : MonoBehaviour
     public bool IsInPlace()
     {
         // return inPlace;
-        // if (inPlace){
+        if (inPlace){
         return TilePlaceInShelf == currPuzzleSocket.socketPlaceInPicture; 
-        // }
-        // return false;
+        }
+        return false;
     }
 
     public void SetInPlace(bool place)
