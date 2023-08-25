@@ -27,6 +27,7 @@ public class Tile : MonoBehaviour
     public void SetInPlace(bool place)
     {
         inPlace = place;
+        AudioManager.instance.PlayOneShot(FMODEvents.instance.tileInSocket, this.transform.position);
         // AudioManager.Instance.PlayOneShotAttach(AudioManager.Sounds.PushBook, gameObject);
     }
     

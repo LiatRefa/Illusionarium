@@ -10,7 +10,7 @@ public class PuzzleRoom : MonoBehaviour
     [SerializeField] GameObject door;
     [SerializeField] GameObject astroids;
     public Material spaceSky;
-
+    
 
     // Start is called before the first frame update
     void Start()
@@ -26,6 +26,7 @@ public class PuzzleRoom : MonoBehaviour
             door.SetActive(true);
             astroids.SetActive(true);
             RenderSettings.skybox = spaceSky;
+            AudioManager.instance.SetMusicStage(SolvedPuzzle.SPACE_STAGE);
 
         }
     }

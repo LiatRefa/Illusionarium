@@ -10,7 +10,7 @@ public class PuzzleMission: MonoBehaviour
     [SerializeField] private List<Tile> tiles;
     // [SerializeField] public PuzzleRoom puzzleRoom;
     private bool missionComplete;
-    
+
 
     // Start is called before the first frame update
 
@@ -39,6 +39,7 @@ public class PuzzleMission: MonoBehaviour
             {
                 // AudioManager.Instance.PlayOneShotAttach(AudioManager.Sounds.WallMove, gameObject);
                 missionComplete = true;
+                
             }
         }  
     }
