@@ -82,5 +82,5 @@ Material:
     m_Colors:
     - _Color: {r: 1.6873996, g: 2.2759876, b: 4.645828, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _ScrollDirection: {r: 0.02, g: 0.02, b: 0.02, a: 0}
+    - _ScrollDirection: {r: 0, g: 0.02, b: 0, a: 0}
   m_BuildTextureStacks: []
