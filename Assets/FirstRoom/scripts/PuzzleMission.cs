@@ -30,6 +30,7 @@ public class PuzzleMission: MonoBehaviour
     
     public void CheckpuzzleCompleted()
     {
+        //AudioManager.Instance.PlayOneShotAttach(AudioManager.Sounds.WallMove, gameObject);
         if (!missionComplete)
         {
             // bool allTilesInPlace = tiles.All(tile => tile.IsInPlace());

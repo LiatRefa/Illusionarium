@@ -26,7 +26,7 @@ public class PuzzleRoom : MonoBehaviour
             door.SetActive(true);
             astroids.SetActive(true);
             RenderSettings.skybox = spaceSky;
-
+            AudioManager.instance.SetMusicStage(SolvedPuzzle.SPACE_STAGE);
         }
     }
 
