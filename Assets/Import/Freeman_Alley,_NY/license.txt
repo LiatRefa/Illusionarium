@@ -1,0 +1,11 @@
+Model Information:
+* title:	Freeman Alley, NY
+* source:	https://sketchfab.com/3d-models/freeman-alley-ny-53adb5ab3ff949cebdec13391450e9dc
+* author:	alankunder (https://sketchfab.com/alankunder)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Freeman Alley, NY" (https://sketchfab.com/3d-models/freeman-alley-ny-53adb5ab3ff949cebdec13391450e9dc) by alankunder (https://sketchfab.com/alankunder) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

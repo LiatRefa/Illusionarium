@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Stonewall Inn photogrammetry scan
+* source:	https://sketchfab.com/3d-models/the-stonewall-inn-photogrammetry-scan-1a6f03e7b10a4115ac6f079bf60bfaba
+* author:	Miguel Bandera (https://sketchfab.com/miguelbandera)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Stonewall Inn photogrammetry scan" (https://sketchfab.com/3d-models/the-stonewall-inn-photogrammetry-scan-1a6f03e7b10a4115ac6f079bf60bfaba) by Miguel Bandera (https://sketchfab.com/miguelbandera) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
