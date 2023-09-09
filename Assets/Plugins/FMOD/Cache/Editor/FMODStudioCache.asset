@@ -28,7 +28,61 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 3.6000001
   Length: 2411
---- !u!114 &-7543092125018576702
+--- !u!114 &-8866143943511987238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/Level3_Ambience-BGM
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/Level3_Ambience-BGM
+  Guid:
+    Data1: -790640244
+    Data2: 1135991516
+    Data3: -1102977124
+    Data4: -994130178
+  Banks:
+  - {fileID: -4867567983592847425}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 73000
+--- !u!114 &-7509385304667379001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/Level2_Ambience-BGM
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/Level2_Ambience-BGM
+  Guid:
+    Data1: -1222109615
+    Data2: 1285435056
+    Data3: -904823907
+    Data4: 695691222
+  Banks:
+  - {fileID: -4867567983592847425}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 158297
+--- !u!114 &-5535497232634329004
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -40,13 +94,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: bank:/Master.strings.bank
   m_EditorClassIdentifier: 
-  Path: ../../../../Desktop/studies/VR/IllusionariumV2/Illusionarium v2/Build/Desktop/Master.strings.bank
+  Path: Assets/music/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638288187518607042
+  lastModified: 638298743954871165
   FileSizes:
   - Name: Desktop
-    Value: 1124
+    Value: 1438
   Exists: 1
 --- !u!114 &-4936476003526518178
 MonoBehaviour:
@@ -67,14 +121,34 @@ MonoBehaviour:
     Data3: -625936461
     Data4: -1447420719
   Banks:
-  - {fileID: 3682267100496863396}
+  - {fileID: -4867567983592847425}
   IsStream: 0
   Is3D: 1
   IsOneShot: 1
   Parameters: []
   MinDistance: 1
-  MaxDistance: 20
+  MaxDistance: 10
   Length: 303
+--- !u!114 &-4867567983592847425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/music/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638298743954856072
+  FileSizes:
+  - Name: Desktop
+    Value: 8298016
+  Exists: 1
 --- !u!114 &-4822326325101183232
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -173,7 +247,7 @@ MonoBehaviour:
     Data3: 1651650439
     Data4: -1227639873
   Banks:
-  - {fileID: 3682267100496863396}
+  - {fileID: -4867567983592847425}
   IsStream: 0
   Is3D: 1
   IsOneShot: 0
@@ -200,7 +274,7 @@ MonoBehaviour:
     Data3: 2124506812
     Data4: 263902251
   Banks:
-  - {fileID: 3682267100496863396}
+  - {fileID: -4867567983592847425}
   IsStream: 1
   Is3D: 1
   IsOneShot: 0
@@ -221,20 +295,25 @@ MonoBehaviour:
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: 
   EditorBanks:
-  - {fileID: -7543092125018576702}
-  - {fileID: 3682267100496863396}
+  - {fileID: -5535497232634329004}
+  - {fileID: -4867567983592847425}
   EditorEvents:
   - {fileID: -2379446562490150291}
   - {fileID: -4936476003526518178}
   - {fileID: 2677069253669041435}
   - {fileID: -354934737506678060}
   - {fileID: 5525576954579646100}
+  - {fileID: 3753319883286197937}
+  - {fileID: 6422721536403570488}
+  - {fileID: 8329951369532689764}
+  - {fileID: -7509385304667379001}
+  - {fileID: -8866143943511987238}
   EditorParameters: []
   MasterBanks:
-  - {fileID: 3682267100496863396}
+  - {fileID: -4867567983592847425}
   StringsBanks:
-  - {fileID: -7543092125018576702}
-  cacheTime: 638288187518607042
+  - {fileID: -5535497232634329004}
+  cacheTime: 638298743954871165
   cacheVersion: 131605
 --- !u!114 &1314679910719541834
 MonoBehaviour:
@@ -283,14 +362,14 @@ MonoBehaviour:
     Data3: -1466728831
     Data4: -690460195
   Banks:
-  - {fileID: 3682267100496863396}
+  - {fileID: -4867567983592847425}
   IsStream: 0
   Is3D: 1
   IsOneShot: 1
   Parameters:
   - {fileID: -4579569983484324038}
   MinDistance: 0
-  MaxDistance: 3.6000001
+  MaxDistance: 5.2000003
   Length: 2411
 --- !u!114 &3584538859648402968
 MonoBehaviour:
@@ -312,7 +391,7 @@ MonoBehaviour:
   - Name: Desktop
     Value: 1124
   Exists: 1
---- !u!114 &3682267100496863396
+--- !u!114 &3753319883286197937
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -321,17 +400,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.bank
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Footsteps/Footsteps_generic
   m_EditorClassIdentifier: 
-  Path: ../../../../Desktop/studies/VR/IllusionariumV2/Illusionarium v2/Build/Desktop/Master.bank
-  Name: Master
-  StudioPath: bank:/Master
-  lastModified: 638288187518390137
-  FileSizes:
-  - Name: Desktop
-    Value: 3644992
-  Exists: 1
+  Path: event:/SFX/Footsteps/Footsteps_generic
+  Guid:
+    Data1: -1449019902
+    Data2: 1187836338
+    Data3: 362127766
+    Data4: 1559946485
+  Banks:
+  - {fileID: -4867567983592847425}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 5.6
+  Length: 1062
 --- !u!114 &4488856762497728163
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -404,7 +490,7 @@ MonoBehaviour:
     Data3: -1979110773
     Data4: -407237944
   Banks:
-  - {fileID: 3682267100496863396}
+  - {fileID: -4867567983592847425}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -412,7 +498,7 @@ MonoBehaviour:
   - {fileID: 4488856762497728163}
   MinDistance: 1
   MaxDistance: 20
-  Length: 252767
+  Length: 248267
 --- !u!114 &6412995583980998297
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -433,6 +519,33 @@ MonoBehaviour:
   - Name: Desktop
     Value: 3644992
   Exists: 1
+--- !u!114 &6422721536403570488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ball_hit-wall
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ball_hit-wall
+  Guid:
+    Data1: 232468233
+    Data2: 1093361927
+    Data3: 1740989106
+    Data4: -2027382756
+  Banks:
+  - {fileID: -4867567983592847425}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0.5
+  MaxDistance: 10
+  Length: 312
 --- !u!114 &6533585562553496064
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -486,3 +599,30 @@ MonoBehaviour:
   MinDistance: 3.8
   MaxDistance: 100
   Length: 29149
+--- !u!114 &8329951369532689764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Door_open-generic
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Door_open-generic
+  Guid:
+    Data1: -1701817525
+    Data2: 1282048790
+    Data3: 1983880338
+    Data4: -1674199727
+  Banks:
+  - {fileID: -4867567983592847425}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0.7
+  MaxDistance: 20
+  Length: 1145
