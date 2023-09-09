@@ -1,0 +1,488 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8983582029473450893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Footsteps/Level1_Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Footsteps/Level1_Footsteps
+  Guid:
+    Data1: 707399590
+    Data2: 1211211042
+    Data3: -1466728831
+    Data4: -690460195
+  Banks:
+  - {fileID: 6412995583980998297}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 6533585562553496064}
+  MinDistance: 0
+  MaxDistance: 3.6000001
+  Length: 2411
+--- !u!114 &-7543092125018576702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../../Desktop/studies/VR/IllusionariumV2/Illusionarium v2/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638288187518607042
+  FileSizes:
+  - Name: Desktop
+    Value: 1124
+  Exists: 1
+--- !u!114 &-4936476003526518178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Puzzle_Socket
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Puzzle_Socket
+  Guid:
+    Data1: 1281061001
+    Data2: 1205381535
+    Data3: -625936461
+    Data4: -1447420719
+  Banks:
+  - {fileID: 3682267100496863396}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 303
+--- !u!114 &-4822326325101183232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Puzzle_Socket
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Puzzle_Socket
+  Guid:
+    Data1: 1281061001
+    Data2: 1205381535
+    Data3: -625936461
+    Data4: -1447420719
+  Banks:
+  - {fileID: 6412995583980998297}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 303
+--- !u!114 &-4579569983484324038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Level1_Footsteps/Puzzle Solved
+  m_EditorClassIdentifier: 
+  Name: Puzzle Solved
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1405156467
+    data2: 2184783771
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Desert
+  - Space
+  Exists: 1
+--- !u!114 &-3496023182520222853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Level1_Ambience/Puzzle Solved
+  m_EditorClassIdentifier: 
+  Name: Puzzle Solved
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1405156467
+    data2: 2184783771
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Desert
+  - Space
+  Exists: 1
+--- !u!114 &-2379446562490150291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Meteors
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Meteors
+  Guid:
+    Data1: 1443866214
+    Data2: 1284563918
+    Data3: 1651650439
+    Data4: -1227639873
+  Banks:
+  - {fileID: 3682267100496863396}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 3.8
+  MaxDistance: 100
+  Length: 29149
+--- !u!114 &-354934737506678060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Blackhole
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Blackhole
+  Guid:
+    Data1: 819114199
+    Data2: 1128530781
+    Data3: 2124506812
+    Data4: 263902251
+  Banks:
+  - {fileID: 3682267100496863396}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1.4
+  MaxDistance: 60
+  Length: 43000
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -7543092125018576702}
+  - {fileID: 3682267100496863396}
+  EditorEvents:
+  - {fileID: -2379446562490150291}
+  - {fileID: -4936476003526518178}
+  - {fileID: 2677069253669041435}
+  - {fileID: -354934737506678060}
+  - {fileID: 5525576954579646100}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 3682267100496863396}
+  StringsBanks:
+  - {fileID: -7543092125018576702}
+  cacheTime: 638288187518607042
+  cacheVersion: 131605
+--- !u!114 &1314679910719541834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/Level1_Ambience
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/Level1_Ambience
+  Guid:
+    Data1: 520433637
+    Data2: 1159225782
+    Data3: -1979110773
+    Data4: -407237944
+  Banks:
+  - {fileID: 6412995583980998297}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -3496023182520222853}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 252767
+--- !u!114 &2677069253669041435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Footsteps/Level1_Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Footsteps/Level1_Footsteps
+  Guid:
+    Data1: 707399590
+    Data2: 1211211042
+    Data3: -1466728831
+    Data4: -690460195
+  Banks:
+  - {fileID: 3682267100496863396}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -4579569983484324038}
+  MinDistance: 0
+  MaxDistance: 3.6000001
+  Length: 2411
+--- !u!114 &3584538859648402968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../../Desktop/studies/VR/IllusionariumV2/Illusionarium v2/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638288187518607042
+  FileSizes:
+  - Name: Desktop
+    Value: 1124
+  Exists: 1
+--- !u!114 &3682267100496863396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../../Desktop/studies/VR/IllusionariumV2/Illusionarium v2/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638288187518390137
+  FileSizes:
+  - Name: Desktop
+    Value: 3644992
+  Exists: 1
+--- !u!114 &4488856762497728163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Level1_Ambience/Puzzle Solved
+  m_EditorClassIdentifier: 
+  Name: Puzzle Solved
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1405156467
+    data2: 2184783771
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Desert
+  - Space
+  Exists: 1
+--- !u!114 &5198974855338463403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Blackhole
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Blackhole
+  Guid:
+    Data1: 819114199
+    Data2: 1128530781
+    Data3: 2124506812
+    Data4: 263902251
+  Banks:
+  - {fileID: 6412995583980998297}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1.4
+  MaxDistance: 60
+  Length: 43000
+--- !u!114 &5525576954579646100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/Level1_Ambience
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/Level1_Ambience
+  Guid:
+    Data1: 520433637
+    Data2: 1159225782
+    Data3: -1979110773
+    Data4: -407237944
+  Banks:
+  - {fileID: 3682267100496863396}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 4488856762497728163}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 252767
+--- !u!114 &6412995583980998297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../../Desktop/studies/VR/IllusionariumV2/Illusionarium v2/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638288187518390137
+  FileSizes:
+  - Name: Desktop
+    Value: 3644992
+  Exists: 1
+--- !u!114 &6533585562553496064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Level1_Footsteps/Puzzle Solved
+  m_EditorClassIdentifier: 
+  Name: Puzzle Solved
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1405156467
+    data2: 2184783771
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Desert
+  - Space
+  Exists: 1
+--- !u!114 &7954191770388033876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Meteors
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Meteors
+  Guid:
+    Data1: 1443866214
+    Data2: 1284563918
+    Data3: 1651650439
+    Data4: -1227639873
+  Banks:
+  - {fileID: 6412995583980998297}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 3.8
+  MaxDistance: 100
+  Length: 29149
