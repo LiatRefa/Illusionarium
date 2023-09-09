@@ -29,9 +29,6 @@ public class PullEffect : MonoBehaviour
         //SceneManager.LoadScene(1);
     }
 
-
-
-
 }   
 
 

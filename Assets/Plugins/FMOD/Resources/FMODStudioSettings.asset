@@ -426,8 +426,10 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: Assets/Iluusionraium v3/Illusionarium v3/Illusionarium v3.fspro
-  sourceBankPath: Assets/Iluusionraium v3/Illusionarium v3/Build
+
+  sourceProjectPath: Assets/music/Illusionarium v3.fspro
+  sourceBankPath: Assets/music/Build
+
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1

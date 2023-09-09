@@ -1,0 +1,11 @@
+Model Information:
+* title:	HW9: Automapping
+* source:	https://sketchfab.com/3d-models/hw9-automapping-cb97cea9a1184ccc9a50cc80bec9c313
+* author:	Vlad Soloshuk (N1ght) (https://sketchfab.com/Vladislav..Soloshuk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HW9: Automapping" (https://sketchfab.com/3d-models/hw9-automapping-cb97cea9a1184ccc9a50cc80bec9c313) by Vlad Soloshuk (N1ght) (https://sketchfab.com/Vladislav..Soloshuk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
