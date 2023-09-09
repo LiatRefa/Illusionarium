@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{794a3e4d-006e-4ff9-b204-a187a8511817}">
+		<property name="assetPath">
+			<value>Ambience/Level2/BGM_Room2_synth5.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>27.853424036281179</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8d3beb78-44c0-4286-aadd-82d8946a4543}</destination>
+		</relationship>
+	</object>
+</objects>

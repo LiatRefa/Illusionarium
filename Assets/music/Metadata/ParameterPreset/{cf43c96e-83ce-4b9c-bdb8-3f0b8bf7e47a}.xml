@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{cf43c96e-83ce-4b9c-bdb8-3f0b8bf7e47a}">
+		<property name="name">
+			<value>Puzzle Solved</value>
+		</property>
+		<relationship name="folder">
+			<destination>{85d87e4f-1801-4492-ac28-16bd682dc3b5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{cb29ece1-94e3-43af-9800-dc09a2039812}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{cb29ece1-94e3-43af-9800-dc09a2039812}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Desert</value>
+			<value>Space</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
