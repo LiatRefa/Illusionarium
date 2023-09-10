@@ -426,10 +426,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-
-  sourceProjectPath: Assets/music/Illusionarium v3.fspro
-  sourceBankPath: Assets/music/Build
-
+  sourceProjectPath: 
+  sourceBankPath: 
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
@@ -450,8 +448,7 @@ MonoBehaviour:
   VirtualChannelSettings: []
   RealChannelSettings: []
   Plugins: []
-  MasterBanks:
-  - Master
+  MasterBanks: []
   Banks: []
   BanksToLoad: []
   LiveUpdatePort: 9264
@@ -465,8 +462,8 @@ MonoBehaviour:
   SharedLibraryUpdateStage: 0
   SharedLibraryTimeSinceStart: 0
   CurrentVersion: 131605
-  HideSetupWizard: 1
-  LastEventReferenceScanVersion: 131605
+  HideSetupWizard: 0
+  LastEventReferenceScanVersion: 0
   Platforms:
   - {fileID: -8944944274191346821}
   - {fileID: -6821785676838045979}
@@ -479,7 +476,7 @@ MonoBehaviour:
   - {fileID: 7889719943845076163}
   - {fileID: 8874699198455801441}
   - {fileID: 9093689253596918559}
-  MigratedPlatforms: 0c000000150000000b0000000a00000009000000120000000800000005000000060000000200000001000000
+  MigratedPlatforms: 080000000900000005000000120000000c000000020000000b0000000600000001000000150000000a000000
 --- !u!114 &1882345164814436049
 MonoBehaviour:
   m_ObjectHideFlags: 0
