@@ -1,0 +1,11 @@
+Model Information:
+* title:	An Old Cheap Room in Chinatown
+* source:	https://sketchfab.com/3d-models/an-old-cheap-room-in-chinatown-9c2ec26be3cb4d9b91d51755e7210fdd
+* author:	Qifan Zhang (https://sketchfab.com/qifanzhang)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "An Old Cheap Room in Chinatown" (https://sketchfab.com/3d-models/an-old-cheap-room-in-chinatown-9c2ec26be3cb4d9b91d51755e7210fdd) by Qifan Zhang (https://sketchfab.com/qifanzhang) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

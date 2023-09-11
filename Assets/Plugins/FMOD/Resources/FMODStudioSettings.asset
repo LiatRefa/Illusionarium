@@ -486,7 +486,73 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 73549a74f689f0849a8271d9e908c514, type: 3}
+  m_Script: {fileID: 11500000, guid: eef8d824ea7b63742966aaa0e94ac383, type: 3}
+  m_Name: FMODStudioSettings
+  m_EditorClassIdentifier: 
+  switchSettingsMigration: 1
+  HasSourceProject: 1
+  HasPlatforms: 1
+  sourceProjectPath: 
+  sourceBankPath: 
+  sourceBankPathUnformatted: 
+  BankRefreshCooldown: 5
+  ShowBankRefreshWindow: 1
+  AutomaticEventLoading: 1
+  BankLoadType: 0
+  AutomaticSampleLoading: 0
+  EncryptionKey: 
+  ImportType: 0
+  TargetAssetPath: FMODBanks
+  TargetBankFolder: 
+  EventLinkage: 0
+  LoggingLevel: 2
+  SpeakerModeSettings: []
+  SampleRateSettings: []
+  LiveUpdateSettings: []
+  OverlaySettings: []
+  BankDirectorySettings: []
+  VirtualChannelSettings: []
+  RealChannelSettings: []
+  Plugins: []
+  MasterBanks: []
+  Banks: []
+  BanksToLoad: []
+  LiveUpdatePort: 9264
+  EnableMemoryTracking: 0
+  AndroidUseOBB: 0
+  AndroidPatchBuild: 0
+  MeterChannelOrdering: 0
+  StopEventsOutsideMaxDistance: 0
+  BoltUnitOptionsBuildPending: 0
+  EnableErrorCallback: 0
+  SharedLibraryUpdateStage: 0
+  SharedLibraryTimeSinceStart: 0
+  CurrentVersion: 131605
+  HideSetupWizard: 0
+  LastEventReferenceScanVersion: 0
+  Platforms:
+  - {fileID: -8944944274191346821}
+  - {fileID: -6821785676838045979}
+  - {fileID: -5696305426705668420}
+  - {fileID: -4616483017945724923}
+  - {fileID: -4372205394686543533}
+  - {fileID: -1088742431357100126}
+  - {fileID: 1882345164814436049}
+  - {fileID: 3716085263938506690}
+  - {fileID: 7889719943845076163}
+  - {fileID: 8874699198455801441}
+  - {fileID: 9093689253596918559}
+  MigratedPlatforms: 080000000900000005000000120000000c000000020000000b0000000600000001000000150000000a000000
+--- !u!114 &1882345164814436049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc1f51bc35d549941904cf062bae93a3, type: 3}
   m_Name: FMODStudioSettingsPlatform
   m_EditorClassIdentifier: 
   identifier: b7716510a1f36934c87976f3a81dbf3d
