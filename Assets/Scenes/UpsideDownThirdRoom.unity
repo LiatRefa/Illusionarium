@@ -15101,7 +15101,7 @@ MonoBehaviour:
   m_Camera: {fileID: 684425251}
   m_OriginBaseGameObject: {fileID: 793621421}
   m_CameraFloorOffsetObject: {fileID: 366108346}
-  m_RequestedTrackingOriginMode: 0
+  m_RequestedTrackingOriginMode: 1
   m_CameraYOffset: 1.1176
 --- !u!4 &793621426
 Transform:
@@ -15131,7 +15131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b586b23dc36c4364eb8370a3a98512fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floatForce: 2
+  floatForce: 5
   dragForce: 1
   minForce: 0
   minTimeBetweenStrokes: 0
@@ -19389,26 +19389,14 @@ GameObject:
   - component: {fileID: 1006886367}
   - component: {fileID: 1006886366}
   - component: {fileID: 1006886365}
-  - component: {fileID: 1006886364}
+  - component: {fileID: 1006886369}
   m_Layer: 0
   m_Name: invisblePortal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &1006886364
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1006886363}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 99047a7f05d827445bc079ccd3284a89, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_IsActive: 1
 --- !u!114 &1006886365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19448,8 +19436,8 @@ MonoBehaviour:
   m_HoverEntered:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1006886364}
-        m_TargetAssemblyTypeName: upsideDownEffect, Assembly-CSharp
+      - m_Target: {fileID: 1006886369}
+        m_TargetAssemblyTypeName: Return, Assembly-CSharp
         m_MethodName: OnHoverEnter
         m_Mode: 0
         m_Arguments:
@@ -19632,6 +19620,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1006886369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006886363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5f20813d97a2a2429cc4fb32d0f457a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1010023376
 GameObject:
   m_ObjectHideFlags: 0

@@ -26,7 +26,7 @@ public class PullEffect : MonoBehaviour
     IEnumerator MoveToSpace()
     {
         yield return new WaitForSeconds(2f);
-        //SceneManager.LoadScene(1);
+        SceneManager.LoadScene(1);
     }
 
 }   
